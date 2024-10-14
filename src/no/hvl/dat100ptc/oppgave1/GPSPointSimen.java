@@ -2,14 +2,14 @@ package no.hvl.dat100ptc.oppgave1;
 
 import no.hvl.dat100ptc.TODO;
 
-public class GPSPoint {
+public class GPSPointSimen {
 
 	private int time;
 	private double latitude;
 	private double longitude;
 	private double elevation;
 	
-	public GPSPoint(int time, double latitude, double longitude, double elevation) {
+	public GPSPointSimen(int time, double latitude, double longitude, double elevation) {
 
 		this.time= time;
 		this.latitude=latitude;
